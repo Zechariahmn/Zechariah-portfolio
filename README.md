@@ -1,2 +1,2 @@
 # Zechariah-portfolio
-Work portfolio that keeps my about information and work
+Portfoliot that contains my about, skills, projects and contact
