@@ -219,23 +219,25 @@ small[prof="20"] {
 }
 
 
-/* -------------- portfolio -------------*/
+/* -------------- Work -------------*/
 .gallery {
-  margin: auto;
-}
-.gallery img {
-  display: block;
-  float: left;
-  background-color: white;
-  margin: 1%;
-  height: 9rem;
-}
-.big{
-  width:50%;
-}
-.small {
-  width: 46%;
-}
+	margin: auto;
+  }
+  .gallery img {
+	display: block;
+	float: left;
+	background-color: white;
+	padding: 1px;
+	height: 9rem;
+  }
+  .big{
+	width:100%;
+  }
+  .small {
+	  
+	width: 50%;
+	
+  }
 
 /* -------------- social -------------*/
 .social{
@@ -428,4 +430,3 @@ small[prof="20"] {
 		height: 190px;
 	}
 }
-
